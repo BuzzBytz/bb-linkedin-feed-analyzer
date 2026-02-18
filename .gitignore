@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# capture script output (dashboard-triggered)
+.capture-output.json
+.feed-urns.json
+
+# timestamped captures (last 10 kept locally)
+/data/captures/
+
+# Playwright browser profile (local login state)
+/playwright-linkedin-data/

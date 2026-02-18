@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sample-1",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:1234567890/",
+    "authorName": "Jane Doe",
+    "authorProfileUrl": "https://www.linkedin.com/in/janedoe/",
+    "authorFollowers": 25000,
+    "content": "Leadership tip: Listen more than you speak. The best ideas often come from the quietest voices in the room. #leadership #management",
+    "reactions": 1200,
+    "comments": 85,
+    "hashtags": ["leadership", "management"],
+    "postedAt": "2025-02-18T10:00:00.000Z",
+    "commentSnippets": ["Great point!", "Thanks for sharing - this really resonated with me."]
+  },
+  {
+    "id": "sample-2",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:1234567891/",
+    "authorName": "John Smith",
+    "authorFollowers": 5000,
+    "content": "Product launch day! Grateful for the team that made it happen.",
+    "reactions": 150,
+    "comments": 12,
+    "hashtags": [],
+    "postedAt": "2025-02-17T14:30:00.000Z"
+  }
+]
